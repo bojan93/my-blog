@@ -1,0 +1,8 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: 📚 Learning Corner
+theme: "PaperMod"
+params:
+    homeInfoParams:
+        Title: Hi there 👋
+        Content: Welcome to my blog (to be updated)
