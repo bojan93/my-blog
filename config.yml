@@ -1,4 +1,5 @@
-baseURL: https://bojan93.github.io/my-blog/
+baseURL: "https://bojan93.github.io/my-blog/"
+relativeURLs: true
 languageCode: en-us
 title: 📚 Learning Corner
 theme: "PaperMod"
