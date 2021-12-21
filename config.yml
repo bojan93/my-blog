@@ -6,4 +6,4 @@ theme: "PaperMod"
 params:
     homeInfoParams:
         Title: Hi there 👋
-        Content: Welcome to my blog (to be updated)
+        Content: Welcome to my blog where I'll cover various topics around programming
